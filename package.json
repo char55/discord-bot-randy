@@ -1,0 +1,11 @@
+{
+  "name": "discord_bot_randy",
+  "version": "1.0.0",
+  "description": "Bot for discord serve use",
+  "main": "index.js",
+  "author": "charlotte haras",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
